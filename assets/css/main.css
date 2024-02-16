@@ -2359,9 +2359,9 @@ input, select, textarea {
 		}
 		
 		.image .center{
-			display:block
-			position: center
-			width: 80%
+			display: block;
+			position: center;
+			width: 80%;
 		}
 			
 			.image.main img {
