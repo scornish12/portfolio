@@ -2357,7 +2357,13 @@ input, select, textarea {
 			margin: 0 0 3em 0;
 			width: 70%;
 		}
-
+		
+		.image .centre{
+			display:block
+			position: center
+			width: 70%
+		}
+			
 			.image.main img {
 				width: 80%;
 			}
