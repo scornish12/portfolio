@@ -2332,7 +2332,7 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
-			padding: 0 1.5em 1em 0;
+			padding: 0 1.5em 1em 1em;
 			top: 0.25em;
 		}
 
