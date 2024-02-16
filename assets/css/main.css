@@ -2308,6 +2308,13 @@ input, select, textarea {
 			padding: 0;
 		}
 
+/* Video */
+
+	.video{
+		padding-bottom: 30px;
+	}
+
+
 /* Image */
 
 	.image {
